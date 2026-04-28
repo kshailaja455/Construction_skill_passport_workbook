@@ -1,7 +1,7 @@
 # Construction Worker Skill Passport
 
 #  Project Status
- Currently in Design Phase (Workbook Completed)
+Status: Design & Planning Phase (Implementation in progress)
 
 #  Overview
 This project proposes a digital platform to create verified skill passports for construction workers using image-based portfolios and QR verification.
